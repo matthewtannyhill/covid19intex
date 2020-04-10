@@ -1,0 +1,16 @@
+$primary: #63b5e1;
+$secondary: #d4e6f5;
+$success: #f3f2f2;
+$info: #31d882;
+$warning: #8C5C03;
+$danger: #9E2821;
+$light: #f8f9fa;
+
+$bg-custom: #4e8094;
+
+.bg-custom{
+    background-color: $bg-custom;
+}
+
+
+@import '~bootstrap/scss/bootstrap' //primary bootstrap library
